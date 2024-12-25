@@ -1,0 +1,2792 @@
+[
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Red and blue blinking lights",
+    "purpose": "Mysterious",
+    "description": "As a military officer, my attention was drawn to the precise maneuvers of the drone. It had a high-speed rotary motor, suggesting advanced technology. The drone had distinct red and blue lights, and the pattern suggested a coded transmission.",
+    "id": 1
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Single powerful white light",
+    "purpose": "Delivery",
+    "description": "As a professional logistician, I noticed the drone's efficiency in navigating through the urban landscape. The single white light served both as a beacon for its path and a deterrent for any potential obstructions.",
+    "id": 2
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "I was out for a morning jog when I saw this drone. It wasn't too big but was quite agile, darting around like a hummingbird. Didn't seem to have any lights, guess they didn't expect to use it in the dark.",
+    "id": 3
+  },
+  {
+    "location": "San Diego, California",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Multicolored LED display",
+    "purpose": "Mysterious",
+    "description": "OMG! I've never seen a drone like this before. It was huge, like a mini helicopter, and it had this cool LED display lighting up in all different colors. I wonder what it was doing here?",
+    "id": 4
+  },
+  {
+    "location": "Boulder, Colorado",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Blue constant light",
+    "purpose": "Research",
+    "description": "As a scientist, I was intrigued by the use of drones for research purposes. This small drone had a constant blue light, possibly indicating its research status, and it was operated in a controlled manner, indicative of a scientific study or experiment.",
+    "id": 5
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Green flashing lights",
+    "purpose": "Mysterious",
+    "description": "They're watching us, I'm telling you. These drones are not what they seem. This one had green lights, flashing like a signal. It's not recreational, it's not delivery. They're spying on us, it's a conspiracy.",
+    "id": 6
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Red and white lights",
+    "purpose": "Delivery",
+    "description": "As a local journalist, I was fascinated by the drone's large size. It had red and white lights and was clearly used for delivery purposes. I couldn't help but wonder about the implications of such technology on our day-to-day lives.",
+    "id": 7
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "White and yellow lights",
+    "purpose": "Recreational",
+    "description": "As an outdoor enthusiast, I'm always interested in new tech gadgets. Spotted this medium-sized drone buzzing around. It had white and yellow lights, probably for visibility. Looked like someone's new toy.",
+    "id": 8
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Red and green lights",
+    "purpose": "Recreational",
+    "description": "As an aviation expert, the drone's small size, red and green lights, and nimble maneuverability were quite evident to me. It appeared to be recreational, one of those models used by amateur drone enthusiasts.",
+    "id": 9
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Blue and white strobe lights",
+    "purpose": "Emergency Response",
+    "description": "Responding to a call, we observed a large drone equipped with blue and white strobe lights aiding in an emergency situation. Its ability to provide an aerial view could revolutionize our response strategies.",
+    "id": 10
+  },
+  {
+    "location": "Los Angeles, CA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Red and blue flashing lights",
+    "purpose": "Mysterious",
+    "description": "This is Staff Sergeant Harris. Engaging 20:00 hours, I spotted an unidentified drone of medium size. It displayed a unique pattern of red and blue flashing lights. Radar was unable to lock on the object suggesting advanced cloaking capabilities. Awaiting orders for further investigation.",
+    "id": 11
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Bright white and green lights",
+    "purpose": "Recreational",
+    "description": "As a pilot of 15 years, I can tell you I've seen a lot in the sky. This morning, I spotted a small drone with bright white and green lights, probably recreational. It had a tight turning radius, seemed to be controlled by a skilled operator.",
+    "id": 12
+  },
+  {
+    "location": "Houston, TX",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Amber lights forming a pentagon",
+    "purpose": "Mysterious",
+    "description": "Look, I'm a journalist and I've been covering drone sightings for years. But this, a large drone with a pentagon of amber lights hovering over downtown Houston at night, it's something new. I'm not sure what to make of it.",
+    "id": 13
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "Hey, it's me, Greg. Just the average guy, right? So, I'm out here in my backyard and I see this small drone, no lights or anything, dropping off a package at the Johnson's house. Guess they're getting their groceries delivered now.",
+    "id": 14
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Red rotating lights",
+    "purpose": "Mysterious",
+    "description": "This is Officer Rodriguez, NYPD. Noticed a medium drone over the city tonight, red rotating lights. It didn't seem to be a recreational or delivery unit. We probably need to investigate this further. Over.",
+    "id": 15
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "White central light with green perimeter lights",
+    "purpose": "Recreational",
+    "description": "As an outdoor enthusiast, I've seen my share of drones. This morning, I saw a large recreational drone, central white light, perimeter lights in green, probably filming the sunrise. Pretty sight!",
+    "id": 16
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue and green flashing lights",
+    "purpose": "Delivery",
+    "description": "This is Mayor Turner. I noticed a drone with blue and green flashing lights this evening. Seems like one of those new delivery drones. Looks like the future has well and truly arrived in Seattle.",
+    "id": 17
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Red and white lights",
+    "purpose": "Delivery",
+    "description": "As a tech enthusiast, I got quite excited to see a small delivery drone this afternoon. Red and white lights, probably a new model from the local tech startup. Can't wait to see more of these!",
+    "id": 18
+  },
+  {
+    "location": "Atlanta, GA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Red and white flashing lights",
+    "purpose": "Mysterious",
+    "description": "This is paranormal enthusiast Chris. I saw a medium-sized drone with red and white flashing lights over the city tonight. It gave off a mysterious vibe. I'm not saying it's aliens, but...",
+    "id": 19
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Blue lights",
+    "purpose": "Recreational",
+    "description": "Dr. Patel here, astrophysicist. I spotted a large drone with blue lights this morning. Despite my analytical nature, I was fascinated by its flight mechanics. Clearly, it was a recreational drone operated by someone with significant skill.",
+    "id": 20
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Steady, blue and white lights",
+    "purpose": "Delivery",
+    "description": "As a working professional coming home late, I noticed this compact drone hovering near a neighbor's house. It appeared to be delivering a package. I'm slightly skeptical of these devices — aren't they an invasion of privacy?",
+    "id": 21
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Red and green flashing lights",
+    "purpose": "Mysterious",
+    "description": "I'm just an average guy, but I swear I saw a UFO in broad daylight! It was a large drone, I think, with blinking lights. I'm not sure what it was doing, though. It just hovered for a bit then zoomed off.",
+    "id": 22
+  },
+  {
+    "location": "New York City, New York",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "White, steady lights",
+    "purpose": "Recreational",
+    "description": "As an enthusiast, I was thrilled to see a drone navigating between the skyscrapers. The pilot seemed professional and controlled, avoiding any potential collisions with ease. I'm curious about the model, it looked advanced.",
+    "id": 23
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Bright, multi-colored lights",
+    "purpose": "Mysterious",
+    "description": "I'm a scientist, and I was amazed to spot this drone on my way home. Its lights were incredibly bright, and it moved in an unpredictable pattern. Could it be testing a new flight algorithm or propulsion system?",
+    "id": 24
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue and red flashing lights",
+    "purpose": "Mysterious",
+    "description": "As a conspiracy theorist, I can't help but wonder about the drone I saw tonight. The flashing lights seemed to send a coded message. Is it government surveillance or is someone else watching us?",
+    "id": 25
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "No lights",
+    "purpose": "Mysterious",
+    "description": "I'm a journalist, and I spotted a silent, large drone flying overhead this morning. No company markings or lights were visible. I tried to follow it, but it quickly disappeared. What are they hiding?",
+    "id": 26
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "White, steady lights",
+    "purpose": "Delivery",
+    "description": "As an outdoor enthusiast, I was surprised to see a large drone zipping through the park. It was quickly carrying a package, likely a delivery. Technology is weaving into nature in interesting ways.",
+    "id": 27
+  },
+  {
+    "location": "Dallas, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Red, steady lights",
+    "purpose": "Recreational",
+    "description": "As a pilot, I was intrigued by the drone I saw flying at a considerable altitude. It was clearly recreational, but the operator definitely knew what they were doing. Quite the spectacle against the evening sky.",
+    "id": 28
+  },
+  {
+    "location": "Detroit, Michigan",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Blue, blinking lights",
+    "purpose": "Mysterious",
+    "description": "As an emergency responder, I saw a drone hovering near a recently extinguished fire site. Its purpose was unclear, but its presence at a sensitive location is concerning.",
+    "id": 29
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Green, steady lights",
+    "purpose": "Recreational",
+    "description": "As a tech enthusiast, I was excited to see a drone in action in the city today. Its sleek design and smooth navigation capabilities caught my attention. I would love to learn more about its technology.",
+    "id": 30
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Four bright white lights in a diamond formation",
+    "purpose": "Mysterious",
+    "description": "As an active duty military officer, I noticed an unfamiliar aerial object during my evening jog. The drone displayed an uncommon diamond formation of lights, warranting a more detailed investigation.",
+    "id": 31
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "One blinking red light",
+    "purpose": "Delivery",
+    "description": "As a local tech professional, I couldn't help but notice the efficiency of the delivery drone buzzing over the city park this morning. Its compact size and distinctive red light piqued my interest.",
+    "id": 32
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple colored lights flashing in a sequence",
+    "purpose": "Recreational",
+    "description": "Saw this massive drone whizzing overhead. The lights were pretty rad, bright colors flashing one after another. Not sure what it was doing, but it looked like fun!",
+    "id": 33
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "I am a drone enthusiast and was startled by the sighting of a small drone with no visible lights in the afternoon sky. Never seen anything like it, extremely intriguing!",
+    "id": 34
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Two steady white lights",
+    "purpose": "Mysterious",
+    "description": "As a researcher, I was fascinated by the stability of this drone, hovering silently and steadily in the evening sky. Its twin white lights were hypnotic, and its purpose remains a mystery.",
+    "id": 35
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Flashing green and red lights",
+    "purpose": "Mysterious",
+    "description": "Believe me, this is just the government spying on us! A large drone, with blinking red and green lights, was hovering in the night sky. It's all part of their surveillance plan!",
+    "id": 36
+  },
+  {
+    "location": "Atlanta, Georgia",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Blue LED lights in a circular pattern",
+    "purpose": "Recreational",
+    "description": "This morning, I spotted a drone with a unique design - small with blue LED lights arranged in a circle. As a reporter, I'm eager to learn more about the owner and their intentions.",
+    "id": 37
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Four bright yellow lights",
+    "purpose": "Delivery",
+    "description": "Being an outdoor enthusiast, it was interesting watching a medium-sized delivery drone with bright yellow lights maneuvering through the arizona desert. Quite a sight!",
+    "id": 38
+  },
+  {
+    "location": "Detroit, Michigan",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Red and white strobe lights",
+    "purpose": "Mysterious",
+    "description": "As a commercial pilot, I was intrigued by the sighting of an unidentifiable large drone with strobe lights. The lack of communication signals suggest it was not any known commercial model.",
+    "id": 39
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Bright white headlight and green and red tail lights",
+    "purpose": "Recreational",
+    "description": "As an emergency responder, I observed a medium-sized recreational drone operating in the vicinity of the Statue of Liberty. Its bright white headlight and red and green tail lights were clearly visible.",
+    "id": 40
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Red and green blinking lights",
+    "purpose": "Recreational",
+    "description": "As an aviation expert, I noticed a small drone hovering near my backyard. The red and green blinking lights were clearly visible against the twilight sky. It appeared to be a recreational use drone, possibly a DJI Phantom model.",
+    "id": 41
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Bright white spotlight",
+    "purpose": "Delivery",
+    "description": "Being a tech enthusiast, I was thrilled to spot a medium-sized drone this morning. It had a bright white spotlight that illuminated its path, indicating it was a delivery drone. I believe it was an Amazon Prime Air drone in action.",
+    "id": 42
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "As a local government official, I am concerned about the large drone I sighted last night. It had no visible lights, making it hard to spot. We need to regulate and monitor drone activity for the safety of our citizens.",
+    "id": 43
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Blue and white flashing lights",
+    "purpose": "Recreational",
+    "description": "As a military personnel, I noticed a small aerial object this afternoon. Its blue and white flashing lights were indicative of a quadcopter drone. The flight pattern was erratic, suggesting someone was getting acquainted with the controls.",
+    "id": 44
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Red constant light",
+    "purpose": "Mysterious",
+    "description": "As a working professional, I found it puzzling to see a large drone with a red constant light floating around in the evening sky. It was too large to be a recreational drone, but its purpose remained unclear.",
+    "id": 45
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Yellow and green pulsating lights",
+    "purpose": "Delivery",
+    "description": "As an outdoor enthusiast, I was intrigued by a medium-sized drone with yellow and green pulsating lights this morning. It moved at a steady pace indicating it might be a delivery drone.",
+    "id": 46
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Orange glow",
+    "purpose": "Mysterious",
+    "description": "As a conspiracy theorist, the medium-sized drone with an orange glow I saw last night was definitely suspicious. It hovered silently, possibly surveilling the area, no doubt part of some secret government operation.",
+    "id": 47
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Bright white light",
+    "purpose": "Recreational",
+    "description": "As a journalist, I couldn't help but notice a small drone with a bright white light this afternoon. It was whirring around in a local park, a clear example of recreational drone usage in urban areas.",
+    "id": 48
+  },
+  {
+    "location": "Nashville, Tennessee",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "As a paranormal enthusiast, the large drone I saw in the evening sky was certainly eerie. With no visible lights, it seemed to materialize out of nowhere before disappearing just as quickly.",
+    "id": 49
+  },
+  {
+    "location": "Dallas, Texas",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Red and green blinking lights",
+    "purpose": "Delivery",
+    "description": "As a scientist, I found the medium-sized drone with red and green blinking lights fascinating. It was clearly a delivery drone, demonstrating how technology is revolutionizing commerce.",
+    "id": 50
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Two fluorescent blue lights",
+    "purpose": "Mysterious",
+    "description": "I was out on my usual evening walk when I spotted a peculiarity in the sky. Hovering above the Denver city streets, a medium-sized drone with two fluorescent blue lights was moving with an uncanny agility. Its purpose was indiscernible, and no operator was in sight. It had an eerie presence.",
+    "id": 51
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Four blinking red and white lights",
+    "purpose": "Delivery",
+    "description": "While taking a stroll in downtown Austin, I noticed a considerably large drone whizzing across the skyline. With four blinking red and white lights, it was hard to miss. Turns out, it was a delivery drone for a local restaurant. Quite a sight in broad daylight!",
+    "id": 52
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "A single steady white light",
+    "purpose": "Recreational",
+    "description": "Early this morning, during my jog by the waterfront, I saw a small drone with a steady white light. It seemed to be operated by a group of kids having fun at the park. It's quite remarkable how technology has revolutionized our playtime.",
+    "id": 53
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Green and blue rotating lights",
+    "purpose": "Mysterious",
+    "description": "While driving home from work, I noticed a drone with rotating green and blue lights in the sky. It hovered with a sense of self-assured autonomy that was oddly unsettling. I couldn't discern its purpose, which makes it all the more intriguing.",
+    "id": 54
+  },
+  {
+    "location": "Portland, Oregon",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple bright yellow lights",
+    "purpose": "Mysterious",
+    "description": "I was returning from my late-night shift when I spotted a large drone equipped with multiple bright yellow lights. Its movements seemed erratic, yet somehow controlled. I'm not sure what its purpose was, but it definitely piqued my curiosity.",
+    "id": 55
+  },
+  {
+    "location": "New York City, New York",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "Walking down Broadway this afternoon, I spotted a small, nimble drone zipping between buildings. It had no visible lights, probably to avoid attracting attention. It was a delivery drone from what I could tell. The city is evolving fast with these little mechanical birds.",
+    "id": 56
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Single red light",
+    "purpose": "Recreational",
+    "description": "As the sun was setting at the beach, I saw a drone with a single red light. It was effortlessly performing aerial stunts, clearly for recreational purposes. It's fascinating how these devices have become a part of our leisure activities.",
+    "id": 57
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Two white lights and a blinking red light",
+    "purpose": "Delivery",
+    "description": "While enjoying my morning coffee, I saw a drone with two white lights and a blinking red one. It was hovering near an apartment building and seemed to be a delivery drone. Amazing how we're living in what was once considered a distant future.",
+    "id": 58
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Array of multicolored lights",
+    "purpose": "Mysterious",
+    "description": "Late last night, I saw a large drone with a vibrant array of multicolored lights. It seemed to be scanning the area, but I couldn't figure out its purpose. It's intriguing, but also a bit unnerving, what these unmanned devices can do.",
+    "id": 59
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Two steady green lights",
+    "purpose": "Recreational",
+    "description": "During my afternoon walk in the park, I saw a small drone with two steady green lights. It was being operated by a couple of teenagers, laughing and having fun. It's interesting how drones have become a regular feature in our public spaces.",
+    "id": 60
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Four distinct white lights, blinking in a steady rhythm",
+    "purpose": "Mysterious",
+    "description": "While taking my evening jog along the lakefront, I spotted this oddly silent drone. It was hovering over the water, just a stone's throw away from the shore. The rhythmic blinking of its four lights was captivating, almost hypnotic. Its silence was eerie, and the whole experience was a bit unnerving.",
+    "id": 61
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "A single red light on the front",
+    "purpose": "Recreational",
+    "description": "In the park, kids were flying this tiny drone. The red light on the front made it visible against the clear sky. Its swift movements and sudden twists and turns were quite impressive. I am thinking of getting one for myself. It was an entertaining spectacle.",
+    "id": 62
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple blue and green lights rotating around the base",
+    "purpose": "Delivery",
+    "description": "Noticed this behemoth silently passing overhead on my late-night walk. The rotating lights made it appear like a UFO. It was a relief when I saw the delivery company's logo. It’s fascinating how advanced these delivery drones have become.",
+    "id": 63
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Two white lights on the sides and a red light at the back",
+    "purpose": "Recreational",
+    "description": "During my early morning yoga session, this drone interrupted my concentration. It was buzzing around the park at quite a speed. The owner must have been practicing some advanced maneuvers. I must admit, it was a bit of a distraction.",
+    "id": 64
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Bright white lights underneath and red lights on top",
+    "purpose": "Mysterious",
+    "description": "Saw this drone flying past my window late at night. Its bright lights were flashing in a pattern I couldn't decipher. I couldn't help but wonder if it was spying on someone. The whole thing felt somewhat intrusive.",
+    "id": 65
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Bright yellow lights at the front and sides",
+    "purpose": "Delivery",
+    "description": "While hiking in the mountains, I saw this large drone with bright yellow lights delivering a package to a remote location. It was impressive how efficiently it navigated through the rough terrain. It’s the new age of delivery, I suppose.",
+    "id": 66
+  },
+  {
+    "location": "Las Vegas, Nevada",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Multicolored disco lights",
+    "purpose": "Recreational",
+    "description": "Strolling down the strip, I saw this drone putting on a light show. The multicolored disco lights were quite a spectacle against the night sky. It added a touch of modern tech to the already vibrant Las Vegas nightlife.",
+    "id": 67
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Recreational",
+    "description": "I was sunbathing on the beach when this little drone came buzzing over. It was skillfully maneuvering around the palm trees. I found it mildly irritating, kind of like a persistent fly, but I guess it’s part of the modern beach experience.",
+    "id": 68
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Bright green lights on the corners",
+    "purpose": "Mysterious",
+    "description": "I spotted this drone hovering near my apartment window. Its bright green lights were weirdly entrancing. My first thought was surveillance, but in this city, it could be anything. I just closed my blinds and tried to ignore it.",
+    "id": 69
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Flashing red and white lights",
+    "purpose": "Delivery",
+    "description": "Saw a delivery drone drop off a package at my neighbor's house. The large size and the flashing lights made it look intimidating. I was initially skeptical about these flying machines, but seeing one in action made me realize their potential.",
+    "id": 70
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright, pulsating red and white lights",
+    "purpose": "Mysterious",
+    "description": "Out for a late evening jog around the neighborhood, my attention was diverted by the eerie, pulsating lights in the sky. I'm not usually one for attention-seeking theatrics, but I've got to say, the sight of that large drone, hovering there, just instilled a sense of awe and perhaps, a touch of unease.",
+    "id": 71
+  },
+  {
+    "location": "Los Angeles, CA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Intense green spotlight, occasionally flashing",
+    "purpose": "Delivery",
+    "description": "Working late into the night, I was startled by a sudden beam of light piercing through my window. It was a drone, medium-sized I'd guess, carrying some sort of package. Its intense green lights caught my attention, blinking like a disco ball. As a software engineer, I'm aware of delivery drones, but experiencing it firsthand was something else.",
+    "id": 72
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Dim blue lights visible from below",
+    "purpose": "Recreational",
+    "description": "While on my afternoon hike, I spotted this small drone buzzing around. I could see the dim blue lights underneath it. As an outdoor enthusiast, I found it intriguing but also a bit invasive of the serene natural setting.",
+    "id": 73
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Fiery orange lights with occasional white flashes",
+    "purpose": "Mysterious",
+    "description": "As a pilot, I've seen many things in the sky, but this drone sighting during my morning coffee really intrigued me. It had fiery orange lights, and every now and then, a sharp white flash cut through. Its precise movements and medium size had me guessing its origin and purpose.",
+    "id": 74
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Vivid pink lights rotating in sequence",
+    "purpose": "Mysterious",
+    "description": "Late night, out on my balcony, I saw this large drone with vivid pink lights. As an artist, the lights reminded me of an experimental light installation. The purpose of the drone, though, remains a mystery.",
+    "id": 75
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Rotating yellow and white lights",
+    "purpose": "Delivery",
+    "description": "As a firefighter, I'm used to surprises, but seeing a large drone in the afternoon sky was a novel one. Its rotating yellow and white lights were distinct, and it seemed to be a delivery drone. It was an impressive piece of technology.",
+    "id": 76
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Early morning, while out bird-watching, I noticed a small drone without any lights. It seemed to be someone's offbeat idea of recreation, a stark contrast to the tranquil morning chorus.",
+    "id": 77
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Static white lights on all corners",
+    "purpose": "Mysterious",
+    "description": "As a night shift nurse, I'm no stranger to unusual occurrences. But seeing a drone with white lights hovering in the city sky was a first. Its origin and purpose remained unclear, adding an element of mystery to my routine drive home.",
+    "id": 78
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blinking blue and white lights",
+    "purpose": "Recreational",
+    "description": "After a day of skiing, I was greeted by the sight of a medium-sized drone in the evening sky. Its blinking blue and white lights were captivating. It seemed like someone's toy, a rather tech-savvy way to end a day in the mountains.",
+    "id": 79
+  },
+  {
+    "location": "Boston, MA",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Bright red lights, visible even in daylight",
+    "purpose": "Delivery",
+    "description": "During my morning run, I spotted a large drone with unusually bright red lights. As a professor, I couldn't help but marvel at the technological advancement and speculated about its purpose. It seemed to be delivering something.",
+    "id": 80
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright white, with green and red side lights",
+    "purpose": "Mysterious",
+    "description": "Walking the dog, I saw this large drone hovering over the park. It had bright white lights, with green and red lights on the sides. The dog got spooked, and honestly, so did I. It was too big to be a recreational drone, and it wasn't moving like a delivery one, just stayed there, seemingly observing. Couldn't make out much else in the dark.",
+    "id": 81
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "No visible lights during daytime",
+    "purpose": "Delivery",
+    "description": "Saw a drone during my lunch break. It was medium-sized, couldn't see any lights on it though, something you'd expect from a delivery drone. It looked like one of those Amazon Prime Air drones, but I'm not entirely sure. It was flying lower than usual and it felt like it was rushing. I think it was trying to avoid the high winds.",
+    "id": 82
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Blue and white strobe lights",
+    "purpose": "Recreational",
+    "description": "Was jogging near the beach this morning when I noticed a small drone with blue and white strobe lights. It was zipping around the pier, probably someone getting some scenic shots. It was quite impressive, the way it maneuvered around the seagulls. Got me thinking I should get one myself.",
+    "id": 83
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Powerful red lights",
+    "purpose": "Mysterious",
+    "description": "Saw this large drone with strong red lights in the evening. It was flying in a pattern that didn't quite make sense, like it was scanning for something. Piqued my curiosity, but also unnerved me a bit, as it didn't seem like a standard drone.",
+    "id": 84
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "White lights",
+    "purpose": "Delivery",
+    "description": "Caught sight of a drone flying overhead while I was mowing the lawn. It had the typical white lights and was about medium size - about what you'd expect from a delivery drone. Interestingly enough, it was hovering quite low and moved pretty slowly. I think it might have been navigating around some trees.",
+    "id": 85
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Colorful, rotating lights",
+    "purpose": "Recreational",
+    "description": "Saw a small drone with colorful, rotating lights last night. It was flying over the playground nearby, doing what looked like a light show. Fascinating really, had the kids in awe. I reckon it was someone just having a bit of fun with their new gadget.",
+    "id": 86
+  },
+  {
+    "location": "Las Vegas, Nevada",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright, pulsating lights",
+    "purpose": "Mysterious",
+    "description": "Noticed a large drone with bright, pulsating lights. It was hovering high above the Strip, not moving for a good half hour. Can't say for sure what it was doing, but it wasn't acting like your regular delivery or recreational drone. Kinda gave me the creeps to be honest.",
+    "id": 87
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Flashing red and green lights",
+    "purpose": "Delivery",
+    "description": "While grabbing my morning coffee, I saw a medium-sized drone with flashing red and green lights. It was zipping between buildings and carefully avoiding pedestrians. Definitely one of those delivery drones, probably dropping off someone's breakfast. It's still a bit strange seeing them navigating the urban jungle.",
+    "id": 88
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Blue lights",
+    "purpose": "Recreational",
+    "description": "Caught sight of a small drone with blue lights in the park. It was doing flips and high-speed maneuvers. Clearly, someone was showing off their piloting skills. Watching it duck and dive through the trees was quite a sight.",
+    "id": 89
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "White spotlights",
+    "purpose": "Mysterious",
+    "description": "Spotted a large drone with white spotlights hovering over the bay. It seemed to be searching for something, moving back and forth methodically. Couldn't determine its purpose, but its presence was quite unsettling. Looked more like something out of a sci-fi movie than a regular drone.",
+    "id": 90
+  },
+  {
+    "location": "Eureka, CA",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Three flashing red lights",
+    "purpose": "Mysterious",
+    "description": "Walking my dog along the beach, when out of nowhere, this large UAV appeared. Its three flashing red lights intrigues me. It hovered over the water, casting eerie shadows on the waves. I'm no tech expert but that thing was massive, larger than any recreational drone I've seen.",
+    "id": 91
+  },
+  {
+    "location": "Bentonville, AR",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "One constant green light",
+    "purpose": "Delivery",
+    "description": "While taking out the trash, I saw a small drone whizzing past my house. It had a consistent green light. I reckon it was one of those newfangled delivery drones from the retail giant here. Impressive, but I'm not sure how I feel about my packages flying around town.",
+    "id": 92
+  },
+  {
+    "location": "Waco, TX",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two steady white lights",
+    "purpose": "Recreational",
+    "description": "I was at the park playing catch with my son when we noticed a medium-sized drone in the sky. It had two steady white lights. From the laughter and chatter nearby, it seemed like a group of kids were controlling it. It was a bit of a distraction, but their excitement was contagious.",
+    "id": 93
+  },
+  {
+    "location": "Albuquerque, NM",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Four blinking blue lights",
+    "purpose": "Mysterious",
+    "description": "On my morning jog, I happened across a large drone with four blinking blue lights. It was eerily silent and seemed to be surveying the area. It's not uncommon to see drones around here, but this one gave me an uneasy feeling.",
+    "id": 94
+  },
+  {
+    "location": "Boulder, CO",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "While hiking, I spotted a small drone blending in with the birds. Despite the bright sunlight, I couldn't see any lights on it. Its flight pattern seemed erratic and it didn't appear to be controlled by anyone nearby. A curious encounter for sure.",
+    "id": 95
+  },
+  {
+    "location": "Maui, HI",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "One pulsating red light",
+    "purpose": "Recreational",
+    "description": "Watching the sunset on the beach, I noticed a drone with a pulsating red light. It looked like someone was recording the beautiful scenery. The drone wasn’t intrusive, it actually added to the ambiance, like a firefly dancing in the dusk.",
+    "id": 96
+  },
+  {
+    "location": "Detroit, MI",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Several multi-colored lights",
+    "purpose": "Delivery",
+    "description": "Late-night strolling in the downtown area, I found a large drone zipping through the air. It was adorned with several multi-colored lights, brightening the dark night. It seemed to be on a delivery mission, from its fast pace and determined direction. Modern times indeed.",
+    "id": 97
+  },
+  {
+    "location": "Salem, OR",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Two bright yellow lights",
+    "purpose": "Recreational",
+    "description": "During my morning cup of coffee on the porch, I saw a small drone hovering around. It had two bright yellow lights, like miniature suns. It seemed like someone’s new toy, making loops and dives in the morning glow. Quite a way to start the day.",
+    "id": 98
+  },
+  {
+    "location": "Tampa, FL",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "One steady white light",
+    "purpose": "Mysterious",
+    "description": "Out for a swim, I noticed a drone hovering over the beach. It had a single, steady white light. It didn’t seem to belong to anyone on the beach and its purpose was unclear. It just hovered there, watching us, or maybe just enjoying the view, who knows.",
+    "id": 99
+  },
+  {
+    "location": "Las Vegas, NV",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple flashing neon lights",
+    "purpose": "Recreational",
+    "description": "Walking down the strip, my attention was drawn to a flashy drone amidst the city lights. It was large and covered in eye-catching neon lights. It seemed to be part of a street performance, adding to the city's vibrant nightlife. A unique sight that only Vegas can provide.",
+    "id": 100
+  },
+  {
+    "location": "Charlotte, North Carolina",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Blinking blue and white lights",
+    "purpose": "Delivery",
+    "description": "I was out in the yard tossing a ball with my dog when I saw this little device whirring overhead. Had blinking blue and white lights, and it moved with a certain precision. Didn't take me long to recognize it as a delivery drone, probably off to drop someone's lunch. I must admit, it's quite fascinating how technology has progressed!",
+    "id": 101
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Steady red light",
+    "purpose": "Mysterious",
+    "description": "After a long day of work, I was relaxing on my patio when I noticed a medium-sized drone hovering nearby with a steady red light. It didn't look like any recreational or delivery drone I'd seen. It just sat there in the sky, watching, before flying off into the distance. An odd spectacle, indeed.",
+    "id": 102
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright white spotlight",
+    "purpose": "Mysterious",
+    "description": "Caught sight of a large drone while taking a late-night walk. It had this bright white spotlight that lit up the sidewalk beneath it. The drone was quiet, and it moved too swiftly to be recreational. I couldn't quite figure out what it was doing, but it certainly piqued my curiosity.",
+    "id": 103
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Recreational",
+    "description": "I spotted a small drone zipping through the park during my morning run. It didn't have any lights, but its fast movements and the sounds of laughter from a nearby family suggested it was for recreational use. The kids seemed to be getting a kick out of it.",
+    "id": 104
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Green and red flashing lights",
+    "purpose": "Delivery",
+    "description": "Caught a glimpse of a medium-sized delivery drone as I was leaving my office building. It had green and red flashing lights, which I thought was a peculiar choice. But it caught my attention, so maybe that's the point. Maybe we're not too far from seeing our skies filled with these things.",
+    "id": 105
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Orange glowing lights",
+    "purpose": "Mysterious",
+    "description": "I was grilling in my backyard when I noticed a large drone with orange glowing lights in the sky. It moved slowly, almost surreptitiously. Not sure what it was doing, but it gave me an uneasy feeling. It almost felt like it was observing something.",
+    "id": 106
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Blue lights",
+    "purpose": "Recreational",
+    "description": "I was out for a walk when I saw a small drone with blue lights buzzing overhead. It definitely seemed to be controlled by someone nearby, probably having a bit of late-night fun. The way it darted around, it reminded me of a firefly.",
+    "id": 107
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "White and red lights",
+    "purpose": "Delivery",
+    "description": "I was on my way to work when I noticed a medium-sized drone with white and red lights. It was definitely on a delivery route. It's amazing to think how soon these things will become a common sight.",
+    "id": 108
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Flashing yellow lights",
+    "purpose": "Mysterious",
+    "description": "I was basking in the sun when I saw this large drone with flashing yellow lights. It was hovering in one spot for quite a while. I'm no expert, but it didn't look like any recreational or delivery drone I've seen. It seemed almost...surreal.",
+    "id": 109
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Single green light",
+    "purpose": "Recreational",
+    "description": "I was doing some gardening when I noticed a small drone with a single green light flying around. I heard some kids laughing nearby, so I assume it's recreational. Funny how kids these days prefer drones over good old-fashioned kites.",
+    "id": 110
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Red and green flashing lights",
+    "purpose": "Mysterious",
+    "description": "Taking the dog out for an evening stroll when I noticed a small drone with red and green flashing lights. Odd thing was, it seemed to follow me around the park. I tried to ignore it, but the constant buzzing noise was hard to overlook. Not sure what its purpose was, but it sure did ruin a peaceful evening walk.",
+    "id": 111
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Strong white spotlight",
+    "purpose": "Delivery",
+    "description": "Caught sight of a medium-sized drone descending above my neighbor's yard. Had a powerful white spotlight on and was carrying what seemed like a small package beneath it. Astonishing how delivery drones have become a common sight!",
+    "id": 112
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Blue LED array",
+    "purpose": "Mysterious",
+    "description": "Couldn't sleep and decided to gaze at the night sky. A large, ominous drone, lit up with a blue LED array, suddenly emerged out of nowhere. It hovered silently, casting an eerie glow on the surroundings before disappearing into the night. I was equal parts curious and frightened!",
+    "id": 113
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Small white lights",
+    "purpose": "Recreational",
+    "description": "While hiking in the early morning, I saw a small drone off in the distance. It had tiny white lights on its corners and seemed to be capturing the beautiful sunrise. Probably some nature lover trying to get a good shot.",
+    "id": 114
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Neon green lights",
+    "purpose": "Recreational",
+    "description": "While taking some aerial photos for a project, noticed a medium-sized drone racing past mine. It had bright neon green lights. Looked like an advanced model, probably a racing drone. Whoever was flying it had some serious skills.",
+    "id": 115
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "Sitting in my backyard when I heard an unusual humming sound. Looked up to see a large drone, no lights at all – just a dark, ominous silhouette against the night sky. It didn't stay long, but left me feeling a little uneasy.",
+    "id": 116
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Flashing red lights",
+    "purpose": "Delivery",
+    "description": "Walking to work, I noticed a small drone with flashing red lights. It gently descended and left a package at the front door of a house. Got me thinking, are mailmen becoming a thing of the past?",
+    "id": 117
+  },
+  {
+    "location": "San Diego, California",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue and white lights",
+    "purpose": "Recreational",
+    "description": "Out for a jog, I saw a drone with blue and white lights flying around the park. It was showing off some real acrobatic skills. The flying maneuvers were incredible. Definitely a treat for anyone into tech toys.",
+    "id": 118
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Bright yellow lights",
+    "purpose": "Mysterious",
+    "description": "Noticed a large drone with bright yellow lights hovering near my apartment building. It stayed in the same spot for a while before flying away at an impressive speed. It's the first time I've seen a drone that large. Makes you wonder what it was doing.",
+    "id": 119
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Flickering red light",
+    "purpose": "Mysterious",
+    "description": "Just finished a late-night barbecue when I spotted a small drone with a flickering red light. It was hovering near the trees, and then buzzed off into the darkness. Left me a bit puzzled, but hey, it’s a technological world.",
+    "id": 120
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Two bright blue lights on each side and one red light in the back",
+    "purpose": "Mysterious",
+    "description": "Walking home from the office, I spotted it hovering near the Hancock Tower. It was too high up to discern its exact size but had this eerie presence. I'm a software engineer by trade, so I know a thing or two about drones, but this one had me puzzled. I thought it might be one of those delivery drones, but the lights were all wrong.",
+    "id": 121
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Circular pattern of green and red lights under the drone",
+    "purpose": "Delivery",
+    "description": "I was out on the porch, stargazing, when a low hum broke the tranquility. The drone came into view, its lights reflecting off my telescope. It flew past, disturbingly close to the rooftops. As a pilot, the distressing lack of regulation for these machines concerns me.",
+    "id": 122
+  },
+  {
+    "location": "Boulder, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Single, blinking white light on the top",
+    "purpose": "Recreational",
+    "description": "I was out for my morning hike when I spotted it. It seemed to be following a mountain biker down the trail. Probably filming some extreme sports video. Made me chuckle, thinking about how technology has changed the way we experience the outdoors.",
+    "id": 123
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Four yellow lights, one on each corner",
+    "purpose": "Mysterious",
+    "description": "Caught sight of it while having lunch at Pike Place. It wasn't a delivery drone, those usually have company logos. This one was just plain black. Could be someone's toy, or maybe something more sinister. As a journalist, it's hard not to imagine the possibilities.",
+    "id": 124
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Two white spotlights and multiple red blinking lights",
+    "purpose": "Delivery",
+    "description": "Sitting atop the fire station, I spotted it descending towards a nearby apartment building's rooftop. It had a delivery compartment. Not a sight you'd forget, especially in the middle of a late-night shift. Made me wonder how many pizzas it can carry.",
+    "id": 125
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Caught a glimpse of it from the corner of my eye while I was at the beach. It was skimming across the waves, probably getting some wicked footage. Too bad they're illegal to fly in L.A. city limits. As a tech enthusiast, I find it both cool and frustrating.",
+    "id": 126
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Two white lights in the front and a red rotating light under the drone",
+    "purpose": "Mysterious",
+    "description": "I was walking my dog when I noticed it hovering above an alley. There was something off. Its lights didn't match any recreational or delivery drones I'd seen. As a member of the city council, I'm concerned about potential security issues.",
+    "id": 127
+  },
+  {
+    "location": "Nashville, Tennessee",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Single blinking green light in the middle",
+    "purpose": "Recreational",
+    "description": "It was buzzing around the park, disrupting the peace. Looked like a kid was controlling it. As a park ranger, it's fascinating to see technological evolution, but also a little disheartening when it disturbs the natural serenity.",
+    "id": 128
+  },
+  {
+    "location": "Atlanta, Georgia",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple blue and white lights",
+    "purpose": "Mysterious",
+    "description": "Seeing it glide silently above the skyline last night was unnerving. The lights were unusually bright, and its size was striking. As a scientist, I was intrigued but also apprehensive. If not controlled properly, such technology could pose a threat.",
+    "id": 129
+  },
+  {
+    "location": "Portland, Oregon",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Blinking red and green lights on the side",
+    "purpose": "Delivery",
+    "description": "It moved swiftly above, navigating between the buildings. It was carrying a package, likely a delivery drone. As a city planner, I wonder how drones will redefine our urban landscapes and regulations. It's both exciting and challenging.",
+    "id": 130
+  },
+  {
+    "location": "Lexington, Kentucky",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Blue and green flashing lights",
+    "purpose": "Delivery",
+    "description": "Walking back from a client meeting, I noted a medium-sized drone whizzing overhead. Blinking blue and green lights made it noticeable against the clear afternoon sky. It seemed to be making a delivery, given the small parcel dangling underneath. Efficient little delivery vehicles, I must say.",
+    "id": 131
+  },
+  {
+    "location": "Tucson, Arizona",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright white spotlight",
+    "purpose": "Mysterious",
+    "description": "Just finished a night hike when I noticed an unusually large drone hovering nearby. Had a bright white spotlight that illuminated the desert floor. Couldn't figure out its purpose. Started to feel rather uneasy, as though we were being watched.",
+    "id": 132
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Red and white lights",
+    "purpose": "Recreational",
+    "description": "Early morning jog around Magnolia, spotted a small drone with red and white lights. Seemed like someone was having a bit of pre-sunrise fun. Gave me a start, but then it whizzed off around the corner.",
+    "id": 133
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Purple and blue lights",
+    "purpose": "Mysterious",
+    "description": "After dinner, I spotted a peculiar medium-sized object hovering over our neighborhood. It had an odd combination of flashing purple and blue lights. Its purpose was indiscernible; it just hovered there for a while and then darted off into the night.",
+    "id": 134
+  },
+  {
+    "location": "Madison, Wisconsin",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Green light",
+    "purpose": "Mysterious",
+    "description": "Late-night dog walks never felt eerie until I spotted a large drone with an intense green light scanning the snowy fields. Its purpose was unclear; it didn't seem to be delivering anything. It left my dog and me with an unsettled feeling.",
+    "id": 135
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Yellow and blue lights",
+    "purpose": "Delivery",
+    "description": "Caught a glimpse of a small drone darting between the skyscrapers during my morning jog. Its yellow and blue lights were twinkling like a little star. Had a small package underneath. Probably delivering someone’s breakfast.",
+    "id": 136
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Red light",
+    "purpose": "Recreational",
+    "description": "During lunch at the park, a medium-sized drone with a single red light zipped past. Looked like a recreational model. It did startle a flock of pigeons though, feathers flew everywhere.",
+    "id": 137
+  },
+  {
+    "location": "Anchorage, Alaska",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright white and blue lights",
+    "purpose": "Mysterious",
+    "description": "Evening fishing was interrupted by a large drone with bright white and blue lights. It hovered over the icy waters, doing who knows what. A bit unnerving considering how remote we were.",
+    "id": 138
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Flashing orange lights",
+    "purpose": "Delivery",
+    "description": "From my balcony, I saw a small drone with flashing orange lights flying over the cityscape. It was carrying a small parcel. Made me wonder if it was delivering some late-night snacks to someone.",
+    "id": 139
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Green and red lights",
+    "purpose": "Recreational",
+    "description": "While enjoying my coffee at the patio, a medium-sized drone with green and red lights caught my attention. It was performing aerial flips. Probably a neighborhood kid having some morning fun.",
+    "id": 140
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blinking blue and red lights",
+    "purpose": "Mysterious",
+    "description": "While enjoying a stroll in the park, I noticed this drone hovering silently above. It had an eerie presence, with blinking blue and red lights. Looked more advanced than your average recreational drone. Not sure what its purpose was, but it left me feeling slightly uneasy.",
+    "id": 141
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Constant white light",
+    "purpose": "Delivery",
+    "description": "Working from home, I saw this small drone whizz by my window. It had a small package attached beneath it. The constant white light gave it a professional feel. Quite a marvel, actually, witnessing the future of delivery systems in action.",
+    "id": 142
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright green lights",
+    "purpose": "Mysterious",
+    "description": "Walking home late night, I noticed this large drone, well, more like UFO! It had these bright green lights and hovered in place for a while before vanishing. Bit of a conspiracy theorist, and this was a field day for me!",
+    "id": 143
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Recreational",
+    "description": "Out for my morning jog, I spotted this small drone hovering near a playground. It didn't seem to have any lights. Looked like someone just having fun with their new toy.",
+    "id": 144
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Flashing yellow lights",
+    "purpose": "Delivery",
+    "description": "Was working on my porch when I saw this drone. Had flashing yellow lights and a box-like structure attached underneath, so I guess it was on a delivery run. Pretty impressive, makes you appreciate the advancements in technology.",
+    "id": 145
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Red and white strobing lights",
+    "purpose": "Mysterious",
+    "description": "I was relaxing on my balcony when I saw this large drone with red and white strobing lights. It seemed to be scanning the area. It was a bit of a spectacle, made me feel like I was in some sci-fi movie!",
+    "id": 146
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Steady blue light",
+    "purpose": "Delivery",
+    "description": "I noticed this drone while taking out the trash. It had a steady blue light and was flying in a straight line, like it was on a mission. Turned my boring chore into an exciting drone-spotting activity!",
+    "id": 147
+  },
+  {
+    "location": "San Antonio, TX",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Walking my dog in the park, I noticed this small drone. No visible lights and was being remotely controlled by a teenager nearby. It was fascinating for my dog, he kept chasing it around.",
+    "id": 148
+  },
+  {
+    "location": "Boston, MA",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Flashing orange lights",
+    "purpose": "Mysterious",
+    "description": "This large drone with flashing orange lights caught my attention while I was gardening. It was doing circle patterns in the sky. Left me pondering over its purpose for a good while.",
+    "id": 149
+  },
+  {
+    "location": "Portland, OR",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "White and red blinking lights",
+    "purpose": "Delivery",
+    "description": "While on my evening walk, I saw this medium-sized drone. It was carrying a small parcel and had white and red blinking lights. Can't deny, it added a futuristic touch to my otherwise mundane walk.",
+    "id": 150
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Bright white, uniform, strobing",
+    "purpose": "Recreational",
+    "description": "Walking my dog, I spotted a medium-sized gadget hovering above the park. It had bright white, strobing lights. Looked like a recreational drone, probably somebody recording the sunrise over the Rockies. It zigzagged a bit, then shot straight up before disappearing from my view.",
+    "id": 151
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Red and green navigation lights",
+    "purpose": "Delivery",
+    "description": "While on my lunch break, I spotted a large object moving against the skyline. It had red and green navigation lights, clearly a delivery drone. Probably Amazon or something, dropping off packages. It was amazing to see how smoothly it navigated the cityscape.",
+    "id": 152
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "No lights visible",
+    "purpose": "Mysterious",
+    "description": "Sitting on my patio, I saw this small object, kind of darting about in the sky. It was silent and had no visible lights. Couldn’t tell its purpose, but it was oddly captivating. It disappeared behind my neighbor’s house after a few minutes.",
+    "id": 153
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Blue and white, flickering",
+    "purpose": "Mysterious",
+    "description": "Late night beach walk, I noticed a flickering blue and white light in the sky. It was a medium-sized drone, moving irregularly, almost like it was trying to avoid detection. I couldn't figure out its purpose and it was kind of eerie, to be honest.",
+    "id": 154
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Constant red and white",
+    "purpose": "Delivery",
+    "description": "I was at the baseball game when this large drone flew overhead. It had bright, red and white lights that were constantly on. Seemed like a delivery drone, maybe transporting stadium food. Crowd was amused, kids pointed and cheered.",
+    "id": 155
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Intermittent blue and green",
+    "purpose": "Recreational",
+    "description": "I was in Central Park, saw this small drone with intermittent blue and green lights. Seemed like a recreational drone, I guess someone filming the city at dusk. It darted around for a while, then zipped away.",
+    "id": 156
+  },
+  {
+    "location": "Houston, Texas",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Bright white, strobing",
+    "purpose": "Mysterious",
+    "description": "It was late, and this medium-sized drone with bright, strobing lights caught my eye. Not sure what it was doing, but it was fascinating to watch. It hovered for a bit over the neighborhood before it flew off.",
+    "id": 157
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Red and green, constant",
+    "purpose": "Delivery",
+    "description": "During my morning jog, I saw this large drone with constant red and green lights. Looked like a delivery drone, maybe transporting breakfast orders. It was pretty cool seeing it glide over the city.",
+    "id": 158
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Blue and white, blinking",
+    "purpose": "Recreational",
+    "description": "While out on my boat, I saw this small drone with blinking blue and white lights. I assumed it was a recreational drone, maybe capturing the beautiful Puget Sound scenery. It circled above for a while, then flew off towards the shore.",
+    "id": 159
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Intermittent red and white",
+    "purpose": "Mysterious",
+    "description": "I was heading home when I spotted this medium-sized drone with intermittent red and white lights. Its purpose was unclear, and its movements were erratic. It hovered over the park for a bit, then vanished into the night.",
+    "id": 160
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Bright and white, almost blinding, with intermittent red flashes",
+    "purpose": "Mysterious",
+    "description": "Couldn't believe my eyes. There it was, a behemoth in the sky, carving arcs above the Space Needle. Hard to ignore the blinding white lights with intermittent red flashes. Was it tracking something? Scanning? A government thing? Don't know, just had the most unsettling feeling.",
+    "id": 161
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "A single, pulsating blue light",
+    "purpose": "Recreational",
+    "description": "Caught a glimpse of it while BBQ-ing in my backyard. A tiny thing doing tricks in the sky, with a pulsating blue light that seemed to dance along. Seemed like someone's having fun. But it nearly knocked my grilling hat off as it whizzed by. No harm done though.",
+    "id": 162
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two parallel green lights on either side",
+    "purpose": "Delivery",
+    "description": "In the middle of my yoga session in the park, and I see this medium-sized drone with two green lights on either side. It made a beeline across the landscape, dropping a package at a nearby house. The future of delivery, I suppose?",
+    "id": 163
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "Unnerving! Something skimming over the Golden Gate Bridge, blending perfectly with the twilight. No visible lights, could've easily mistaken it for a large bird. Was it spying? For who? Government? Extraterrestrials? The questions are endless!",
+    "id": 164
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Four corner lights and a bright central light",
+    "purpose": "Mysterious",
+    "description": "On my late-night jog by Lake Michigan, when this beast of a drone sweeps low overhead. Glowing like a UFO with corner lights and a bright central light. Nearly gave me a heart attack. Is this some kind of military tech? Your guess is as good as mine.",
+    "id": 165
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Intermittent red and yellow flashes",
+    "purpose": "Delivery",
+    "description": "Casually lounging by the pool when I see this thing buzzing above, casting a weird shadow. Had intermittent red and yellow flashes. Saw it drop a package down the street. Delivery drones in Phoenix? That's new.",
+    "id": 166
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Continuous green light",
+    "purpose": "Recreational",
+    "description": "Strolling in Central Park, I spot a little drone with a single green light, darting between the trees. An enthusiast must be getting some cool shots or maybe it's a kid playing around. Gotta admit, it added a bit of techno-magic to the evening.",
+    "id": 167
+  },
+  {
+    "location": "Houston, Texas",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Flashing white and blue lights",
+    "purpose": "Delivery",
+    "description": "Mid-morning coffee on the porch and a medium-sized drone, flashing white and blue lights, cruises by. Watched it drop a package a few houses down. These delivery drones, they're more punctual than my mailman.",
+    "id": 168
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Dim red light",
+    "purpose": "Mysterious",
+    "description": "Jogging by the Charles River, I saw what I can only describe as a stealth drone. Small, nearly silent, with only a dim red light. Was it surveillance? Felt like a scene from a spy movie.",
+    "id": 169
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright, multi-colored flashes",
+    "purpose": "Recreational",
+    "description": "Up for a late-night snack run, when this gigantic drone, lit up like a Christmas tree, soared over the Hollywood sign. Must've been a drone enthusiast showing off, or maybe shooting footage for some movie. Only in LA, right?",
+    "id": 170
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue and red blinking lights",
+    "purpose": "Delivery",
+    "description": "After a long day at work, I noticed this medium-sized drone zipping through the sky. It had blue and red blinking lights - like a tiny police car. It was fast, probably making a delivery. The buzzing sound it made was almost drowned out by the city's evening bustle.",
+    "id": 171
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Bright white light",
+    "purpose": "Mysterious",
+    "description": "As a tech enthusiast, I'm accustomed to seeing drones. But this one was different. It was large with a single bright white light. It moved with a purpose, but I couldn't figure out what it was. Its quiet hover was oddly unsettling in the busy city afternoon.",
+    "id": 172
+  },
+  {
+    "location": "Roswell, New Mexico",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Multicolored, pulsating lights",
+    "purpose": "Mysterious",
+    "description": "Given Roswell's history, I'm always on the lookout for the unusual, and this drone ticked that box. It was small, but its lights were fascinating - changing colors and pulsating in a pattern I couldn't decode. It hovered silently in the night sky before disappearing. Was it alien tech? Who knows!",
+    "id": 173
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Green steady light",
+    "purpose": "Recreational",
+    "description": "I was out for my morning jog when I spotted this small drone. It had a steady green light and was weaving through the trees. It startled a squirrel and swooped just over my head, nearly making me spill my coffee. Probably some neighbor's kid having fun.",
+    "id": 174
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "No lights",
+    "purpose": "Delivery",
+    "description": "It was a busy afternoon in the park when I noticed a medium-sized drone soaring above us, no lights visible. It was delivering a package, I think. Its purposeful direction, the whir of propellers, and the logo on its side were the dead giveaways.",
+    "id": 175
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright circular white light",
+    "purpose": "Mysterious",
+    "description": "I was grilling in the backyard when a large drone flew overhead. It had a circular bright white light that lit up the yard as it passed. Its silent flight and the mystery surrounding its purpose were eerie. It definitely added some drama to my evening BBQ.",
+    "id": 176
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Blinking red light",
+    "purpose": "Recreational",
+    "description": "Walking to the train station, I spotted a small drone with a blinking red light. It was playfully chasing some pigeons around a park. A kid nearby was laughing and controlling it. Just a typical city morning with a bit of tech fun.",
+    "id": 177
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Blue steady lights",
+    "purpose": "Mysterious",
+    "description": "Returning home from work, I saw a medium-sized drone with blue steady lights. It was hovering low over the desert, scanning the ground perhaps. Its quiet hum and mysterious intent gave me an uncanny feeling as I drove by.",
+    "id": 178
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Yellow and green blinking lights",
+    "purpose": "Delivery",
+    "description": "In the hustle and bustle of the city, I saw a large drone with yellow and green blinking lights. It was carrying something – maybe a delivery. Its precision and speed were impressive amidst the city's chaos.",
+    "id": 179
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Multicolored lights",
+    "purpose": "Recreational",
+    "description": "During a beach sunset, a small drone with multicolored lights flew over us. It was capturing the scenic beauty, judging by the camera attached. Its soft hum didn't disturb the peace of the setting sun.",
+    "id": 180
+  },
+  {
+    "location": "Tucson, AZ",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright red and white blinking lights",
+    "purpose": "Mysterious",
+    "description": "Coming home from a long day at the garage, I noticed this monstrous thing in the sky. Blinking red and white lights caught my eye. Massive, it was, bigger than any drone I've seen. Couldn't make heads or tails of what it was doing just hovering there. Made me a bit uneasy, it did.",
+    "id": 181
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Blue and green steady lights",
+    "purpose": "Delivery",
+    "description": "Rushing to catch the subway, I almost missed it. A drone, smack in the middle of the chaos, its blue and green lights steady as a rock. Swore it was a delivery drone, though I've never seen one in person. Wonder what it was delivering so early in the morning.",
+    "id": 182
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Sitting on my porch, sipping iced tea, I spotted a small drone whizzing by. No lights visible, it was. Looked like some kid's plaything. Made me smile, reminded me of the remote-controlled planes we used to play with.",
+    "id": 183
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "White flashing lights",
+    "purpose": "Delivery",
+    "description": "Walking home past midnight, I saw this drone hovering above. White flashing lights gave it away. Looked like a medium-sized delivery drone. Made me wonder how much the city's changed, drones delivering at night and all.",
+    "id": 184
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Red and green blinking lights",
+    "purpose": "Mysterious",
+    "description": "Out for my morning run, I saw this large drone just floating there. Blinking red and green lights, it had. Couldn't figure out what it was doing there. Got my heart racing, I'll tell you that.",
+    "id": 185
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Yellow steady lights",
+    "purpose": "Recreational",
+    "description": "Caught sight of a small drone in the park. Kids were chasing it, laughing. Had yellow steady lights, like a tiny flying disco ball. Took me back to my own childhood, simpler times they were.",
+    "id": 186
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue flashing lights",
+    "purpose": "Mysterious",
+    "description": "Saw a drone near the Space Needle. Flashing blue lights it had, medium-sized. Looked out of place, with all the tourists and the hustle. Couldn't really figure out what it was doing there.",
+    "id": 187
+  },
+  {
+    "location": "Boston, MA",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Red and white steady lights",
+    "purpose": "Delivery",
+    "description": "Walking my dog last night, I noticed this huge drone hovering overhead. Red and white steady lights, it had. Looked like one of those newfangled delivery drones. Almost dropped the leash in surprise.",
+    "id": 188
+  },
+  {
+    "location": "Los Angeles, CA",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Doing some early morning yoga in the park, when this small drone buzzes by. No visible lights, it was. Seemed like someone's toy. Startled me out of my meditation, it did.",
+    "id": 189
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Green flashing lights",
+    "purpose": "Delivery",
+    "description": "Caught a glimpse of a drone on my afternoon hike. Green flashing lights it had, medium build. Looked like a delivery drone, though I can't imagine what it was delivering all the way out here.",
+    "id": 190
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Blue and white strobing lights",
+    "purpose": "Mysterious",
+    "description": "In the late evening while walking my dog, I spotted a small drone hovering near the neighborhood park. It had peculiar blue and white strobing lights. It was eerily silent, and I could barely make it out against the dark sky. Felt a bit unsettling, not gonna lie. It seemed to be watching something, or perhaps someone.",
+    "id": 191
+  },
+  {
+    "location": "Salem, OR",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Two steady red lights on the side and a brighter white light underneath",
+    "purpose": "Recreational",
+    "description": "While out bird-watching, I saw this medium-sized drone above the tree line. It had two steady red lights on its sides and a brighter white light underneath. It was moving smoothly, making gentle turns, and seemed to be capturing the sunset. Not a sight you see every day in our quiet town, but it was rather fascinating.",
+    "id": 192
+  },
+  {
+    "location": "Brooklyn, NY",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Green lights that seemed to form a sort of circle around the drone",
+    "purpose": "Delivery",
+    "description": "On my way back from work, I noticed a large drone buzzing above. It had these green lights forming a circle around it. It seemed to be carrying a package, possibly one of those new drone delivery services? It flew right above the traffic, seemingly indifferent to the city's chaos below.",
+    "id": 193
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Small white lights, one at each rotor",
+    "purpose": "Recreational",
+    "description": "I was jogging by the lake when I saw a medium-sized drone. It had small white lights, one at each rotor. The drone seemed to be operated by a group of teenagers playing around with it. It was zipping all over the place in an erratic yet controlled manner, almost as if it was part of their morning game.",
+    "id": 194
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Blinking red and white lights",
+    "purpose": "Mysterious",
+    "description": "Late into the night, there was this small drone outside my apartment window. It had blinking red and white lights and was silently hovering. Gave me quite a scare. I'm not sure what it was doing there, but it felt intrusive. It darted off quickly when I tried to get a closer look.",
+    "id": 195
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "Saw a large drone flying over the city. It had no visible lights but was quite noticeable against the clear blue afternoon sky. It seemed to be carrying a package underneath, probably from some tech company testing deliveries. It moved at a steady pace, seeming to know exactly where it was going.",
+    "id": 196
+  },
+  {
+    "location": "Albuquerque, NM",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Circular pattern of blue and white lights",
+    "purpose": "Mysterious",
+    "description": "During my evening hike, I spotted a medium-sized drone with a circular pattern of blue and white lights. It was hovering near the mountain base, almost blending in with the twilight. It seemed to be scanning the area, but for what, I couldn't say. Can't help but think it's related to some secret government operation.",
+    "id": 197
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Multicolored blinking lights",
+    "purpose": "Recreational",
+    "description": "During my morning jog, I saw a small drone with multicolored blinking lights. It appeared to be maneuvered by a young girl in the park, possibly a new toy. It seemed to dance in the air, darting between trees, much to the delight of its operator.",
+    "id": 198
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright white lights on each corner",
+    "purpose": "Delivery",
+    "description": "Spotted a large drone with bright white lights on each corner last night. It was silent but the lights were glaring. Pretty sure it was a delivery drone as it had a package tethered underneath it. It was an interesting sight amidst the quiet desert night.",
+    "id": 199
+  },
+  {
+    "location": "Boston, MA",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two red lights on the back",
+    "purpose": "Recreational",
+    "description": "While walking my kids home, I saw a medium-sized drone with two red lights on its back, hovering above the park. Some college students were controlling it, filming a skateboarding video if I had to guess. They seemed to handle it pretty well, made for an unexpected but entertaining watch.",
+    "id": 200
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Flashing red and blue lights",
+    "purpose": "Mysterious",
+    "description": "Got home from work, decided to sit on the porch and enjoy the cool evening. Noticed flickering lights in the distance, probably a medium-sized drone. It wasn't doing anything particular, just hovering around. As a tech enthusiast, I tried to identify the model, but the lights were too blinding. Looked like it had alternating red and blue lights. Not sure what it was doing there at this time, definitely piqued my curiosity!",
+    "id": 201
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Bright white spotlight",
+    "purpose": "Delivery",
+    "description": "While out for my usual morning jog, spotted a large drone with a glaring white spotlight. Being a former pilot, I could tell by its precision and stability that it was a high-grade commercial drone. It descended towards a house down the block, and I realized it must be a delivery drone. Was quite a sight in the early morning light!",
+    "id": 202
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Faint green and white lights",
+    "purpose": "Recreational",
+    "description": "Sitting by the window, sipping my late-night coffee, saw a small drone whizzing down the street, its faint green and white lights bobbing in the dark. As a journalist, I must admit it was an unusual sight for this quiet suburb. Seemed like a recreational drone, maybe someone nearby testing out a new toy?",
+    "id": 203
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "As a city official, I'm used to seeing delivery drones around downtown. But this afternoon, while inspecting a construction site, I noticed a medium-sized, unmarked drone without any visible lights hovering over the site. The drone didn't seem to be for recreational or delivery purposes. I've reported the sighting to the local authorities.",
+    "id": 204
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Intense, glowing orange lights",
+    "purpose": "Mysterious",
+    "description": "I'm a bit of a night owl, and the city's skyline is my muse. Saw a large drone with intense, glowing orange lights, not the usual kind you see around here. Tried to capture it on my camera but it flew off quickly. As an enthusiast, it makes me wonder what new model it could be - a mystery to solve!",
+    "id": 205
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Blinking red light",
+    "purpose": "Delivery",
+    "description": "Working from my home office, I noticed a small drone with a blinking red light through my window. Being a tech analyst, I recognized it as a delivery drone model. It landed in my neighbor's yard. Seeing drones become a part of our daily life is a fascinating reflection of our rapidly evolving tech landscape.",
+    "id": 206
+  },
+  {
+    "location": "Nashville, Tennessee",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Pulsating blue and yellow lights",
+    "purpose": "Recreational",
+    "description": "I'm a night shift ER nurse, and I usually enjoy the calm nights on my way home. Last night, however, I saw a medium-sized drone with pulsating blue and yellow lights. Looked like someone was having a bit of late-night fun flying their drone. Guess we all find peace in different ways.",
+    "id": 207
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Rotating rainbow lights",
+    "purpose": "Mysterious",
+    "description": "As a park ranger, I've seen my fair share of drones, but this one was different. It was a large drone, with lights rotating through the colors of the rainbow. It seemed to be observing the wildlife, yet I couldn't identify a purpose or a brand. It was intriguing and slightly disturbing, disrupting the natural serenity of the park.",
+    "id": 208
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Steady white light",
+    "purpose": "Mysterious",
+    "description": "Coming back from my lab at the university, I saw a small drone with a steady white light. As a scientist, I'm familiar with most commercial and research drones, but this one didn't fit any category. It was hovering near the university buildings. The purpose of its flight is not clear to me, and I've informed campus security about it.",
+    "id": 209
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Flashing multi-colored lights",
+    "purpose": "Recreational",
+    "description": "Walking home from my night shift, I saw a medium-sized drone with flashing multi-colored lights. I'm a bit of a skeptic when it comes to drones, and I found it rather intrusive. It seemed to be a recreational drone, maybe someone trying to capture the nightlife scenery. Still, I felt it's an invasion of privacy and reported it to the local authorities.",
+    "id": 210
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Four steady white lights in a diamond formation",
+    "purpose": "Mysterious",
+    "description": "I was at the peak of my evening jog when I spotted this peculiar unmanned aerial vehicle. The cityscape was its playground. The drone's white lights gave off an almost ethereal glimmer against the twilight. I'm an engineer by profession and I can certainly tell it's not your regular consumer-grade quadcopter. I couldn't identify the exact model, but its unorthodox flight pattern left me curious.",
+    "id": 211
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Two bright blue blinking lights at the front",
+    "purpose": "Delivery",
+    "description": "There it was, buzzing above the neon cityscape, seemingly indifferent to the world below. As a night-shift delivery guy, I've seen plenty of these delivery drones before, but this one was noticeably larger. The way it deftly navigated the city's vertical labyrinth, there was a certain level of artificial intelligence involved, no doubt.",
+    "id": 212
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Recreational",
+    "description": "It was no bigger than a frisbee. A tiny speck against the backdrop of the sprawling Rockies. I was out for my morning hike when I noticed it darting around the treetops. The operator must have been nearby, the drone seemed to be in a playful mood, dipping and weaving between the branches.",
+    "id": 213
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "One large red flashing light at the back",
+    "purpose": "Mysterious",
+    "description": "Just another hot Texan afternoon, when out of nowhere, this strange drone appears. Its oddly erratic flight pattern and the single ominous red light had me a bit spooked. I'm a tech enthusiast, and I haven't seen a drone like this before, heck, it looked like something straight out of a science fiction movie!",
+    "id": 214
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Two steady white lights at the front",
+    "purpose": "Delivery",
+    "description": "As an emergency responder, my instincts kicked in when I spotted the drone against the city's skyline. It was visibly larger than your usual recreational drones, and was carrying an oddly shaped package. I followed it for a while, just to ensure it wasn't causing a nuisance or a threat. Turned out, it was just a high-tech delivery drone in action.",
+    "id": 215
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Green and blue lights alternately blinking",
+    "purpose": "Recreational",
+    "description": "I'm a UAV enthusiast and a die-hard sci-fi buff. I was testing out my new drone when I spotted this tiny creature of the night, it's green and blue lights rapidly blinking. A fellow hobbyist perhaps? Or could it be a sign of extraterrestrial life? I prefer the latter explanation, it's more exciting.",
+    "id": 216
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two white lights at the front, one red light at the back",
+    "purpose": "Delivery",
+    "description": "I'm a journalist, so you can count on me to notice something unusual. It was a medium-sized drone, busily humming its way across the Windy City. The thing that caught my attention was the drone's speed and precision, it was clearly a delivery drone on a mission. I couldn't help wondering what was in the package.",
+    "id": 217
+  },
+  {
+    "location": "Dallas, Texas",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "White lights forming a circle around the body",
+    "purpose": "Mysterious",
+    "description": "Walking my dog in the park, I noticed a large drone hovering overhead. It had these strange white lights circling around its body, almost like a halo. I've seen a lot of drones, but never one quite like this. It seemed to be observing something, but what? That's the mystery that's keeping me up at night.",
+    "id": 218
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Mysterious",
+    "description": "It was small and stealthy, barely visible against the night sky. As a former military personnel, my training kicked in and I kept a watch on it. I couldn't determine its purpose, but its quiet flight and lack of lights made it more mysterious. It was either someone's toy gone astray or a surveillance drone, but whose?",
+    "id": 219
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Green lights at the front and red lights at the back",
+    "purpose": "Recreational",
+    "description": "This is not my first drone sighting, but it's by far the most interesting. I was out in the park, bird-watching, when I spotted it. The drone, with its green and red lights, seemed to be mimicking the flight of the birds, effortlessly zipping through the trees. It was a fascinating sight, a wonderful mix of nature and technology.",
+    "id": 220
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Red and blue flashing lights",
+    "purpose": "Delivery",
+    "description": "On my usual morning run, I spotted this peculiar machine hovering above the park. It had these red and blue lights flashing intermittently. Annoyed at first, I realized it was a delivery drone, probably from an online retailer. It descended closer to the ground, dropped a package, and flew off. Fast and efficient, I have to admit. Makes me reconsider my views on technology.",
+    "id": 221
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Vibrant green lights",
+    "purpose": "Mysterious",
+    "description": "Last evening, while catching some fresh air on my apartment's rooftop, I saw a large drone with vibrant green lights. It stayed stationary for a few minutes then darted away at an unbelievable speed. Couldn't figure out what it was doing. Maybe some government surveillance thing? Creeps me out a little.",
+    "id": 222
+  },
+  {
+    "location": "San Diego, California",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Dim red glow",
+    "purpose": "Recreational",
+    "description": "Caught sight of a small drone with a dim red glow flying over the beach last night. Pretty sure it was someone's recreational toy drone. It seemed like they were trying to capture the fireworks display. Wish I had one to capture such stunning views!",
+    "id": 223
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Bright yellow lights",
+    "purpose": "Mysterious",
+    "description": "Was out hiking this afternoon when I noticed this medium-sized drone with bright yellow lights, hovering above the tree line. It seemed to be scanning the area. Maybe some scientific research? Or could it be related to alien activities? It's all so strange and fascinating!",
+    "id": 224
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "White spotlight",
+    "purpose": "Delivery",
+    "description": "Walking home last night, I saw a large drone with a bright white light. It dropped a package in front of a house and flew off. Quite impressive, these delivery drones. It's like watching a scene from a science fiction movie.",
+    "id": 225
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "Just getting off the late shift, I spotted a small drone flying silently across the city. No lights, no sound, nothing. Strange, right? Got me wondering if it's one of those stealth drones I've read about in military articles.",
+    "id": 226
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Blue LED lights",
+    "purpose": "Recreational",
+    "description": "Spotted a medium-sized drone while sunbathing at the beach this afternoon. It had blue LED lights and was snapping photos of the coastline. Looked like a pretty expensive model, probably owned by one of those drone enthusiasts with deep pockets.",
+    "id": 227
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Red and white lights",
+    "purpose": "Delivery",
+    "description": "On my morning walk, I noticed a large drone with red and white lights. Seemed like a delivery drone. I must say, it's quite something to see these machines delivering packages like it's the most natural thing in the world.",
+    "id": 228
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Flashing multicolored lights",
+    "purpose": "Recreational",
+    "description": "Spotted a small drone with flashy multicolored lights while strolling along the Hollywood Walk of Fame. Looked like a high-end recreational model, probably capturing some unique angles of the city. Gotta love the tech enthusiasm in LA!",
+    "id": 229
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Green and white lights",
+    "purpose": "Mysterious",
+    "description": "Just when I was about to close my shop, I saw a medium-sized drone with green and white lights hovering near the Golden Gate Bridge. It stayed there for about 15 minutes before disappearing into the night. Quite peculiar. I wonder what it was up to.",
+    "id": 230
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Blue lights blinking rhythmically",
+    "purpose": "Delivery",
+    "description": "Enjoying my downtime at a local pub when this medium-sized drone swooped in, instantly catching my attention. It had these blue lights blinking rhythmically, quite a spectacle against the evening sky. I realized it's one of those delivery drones, probably from a local company. Quite an interesting end to my day, I must say.",
+    "id": 231
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Out on an afternoon walk in the park, I spotted this small drone, buzzing around like a pesky insect. No visible lights on it, probably some kiddo's toy. I was curious, but the thing zipped away before I could get a better look.",
+    "id": 232
+  },
+  {
+    "location": "Boston, MA",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Bright white lights",
+    "purpose": "Mysterious",
+    "description": "During my morning run, I noticed a large drone hovering in the distance. It had bright white lights, almost blinding. Couldn't figure out its purpose, but it seemed professional-grade, not your usual hobbyist stuff. Left me feeling a bit uneasy.",
+    "id": 233
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Red and green blinking lights",
+    "purpose": "Delivery",
+    "description": "Late night in the office, I see this medium-sized drone with red and green blinking lights, zooming across the skyline. Probably another Amazon delivery. Makes me wonder if we'll soon see the skies teeming with these things.",
+    "id": 234
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Single purple light",
+    "purpose": "Recreational",
+    "description": "Out walking my dog, we both got startled by this small drone. It had a single purple light, probably some high school kid's science project. Just another weird morning in San Francisco.",
+    "id": 235
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Circular pattern of white lights",
+    "purpose": "Mysterious",
+    "description": "During a stroll by the lake, I saw this large drone. It had a circular pattern of white lights, looked very high-tech. Not sure what it was doing, but it hovered for a while before disappearing. Gave me a strange sense of excitement.",
+    "id": 236
+  },
+  {
+    "location": "San Diego, CA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Green rotating lights",
+    "purpose": "Delivery",
+    "description": "Caught sight of this medium-sized drone while watering my plants. Green rotating lights on it, looked like something out of a sci-fi movie. I think it was a delivery drone, got me wondering about the future of package delivery.",
+    "id": 237
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Flashing yellow lights",
+    "purpose": "Recreational",
+    "description": "Night out in the city, and this small drone with flashing yellow lights flew past. Probably some tourist's recreational drone. Added a bit of fun to the city's usual night-time spectacle.",
+    "id": 238
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Blue and white lights",
+    "purpose": "Mysterious",
+    "description": "Morning jog turned interesting when I spotted this large drone with blue and white lights. Seemed pretty sophisticated, not your average drone. Piqued my curiosity to say the least.",
+    "id": 239
+  },
+  {
+    "location": "Portland, OR",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Red pulsating lights",
+    "purpose": "Delivery",
+    "description": "Mid-afternoon coffee break in my backyard, and this medium-sized drone with red pulsating lights flew overhead. Seemed like a delivery drone. Interesting how technology is changing even the simplest of things like package delivery.",
+    "id": 240
+  },
+  {
+    "location": "Boise, Idaho",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Flickering blue and white lights",
+    "purpose": "Mysterious",
+    "description": "Just finished my evening jog around the park when I saw it, hovering above the trees. The blue and white lights were flickering, like they were trying to communicate. It was damn eerie. Must've been the size of a small car, too big to be one of those recreational drones. What on earth could it have been doing there? Scared the daylights out of me.",
+    "id": 241
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Bright, steady red and green lights",
+    "purpose": "Recreational",
+    "description": "Spotted this tiny drone buzzing around the city streets last night. The red and green lights were bright enough to catch my attention, but not blinding. Given the size, I'd wager it was a recreational drone. Maybe someone testing out their new Christmas toy, who knows?",
+    "id": 242
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "Saw this medium-sized drone this morning, zipping through the LA traffic. It didn't have any visible lights on it, but it was carrying a small parcel. Probably one of those delivery drones from Amazon. They're becoming more common these days, aren't they?",
+    "id": 243
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Flashing yellow lights",
+    "purpose": "Recreational",
+    "description": "Caught this small drone with flashing yellow lights during my lunch break. Looked to be one of those recreational models, probably filming the city skyline. The buzzing sound it made was a bit distracting though.",
+    "id": 244
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Multiple bright white lights",
+    "purpose": "Mysterious",
+    "description": "I'm not one for tall tales, but I saw this large drone with multiple bright white lights hovering over Central Park this evening. It was quite a sight, and I'm not entirely sure what it was doing up there. Not your typical delivery drone, that's for sure.",
+    "id": 245
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Red and green lights",
+    "purpose": "Delivery",
+    "description": "I was on my way home when I noticed this small drone with red and green lights darting across the Seattle skyline. It was carrying a small package, so I'm guessing it was making a delivery. Never thought I'd see the day when drones would be dropping off packages!",
+    "id": 246
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Blue and white lights",
+    "purpose": "Recreational",
+    "description": "This morning, while walking my dog, I spotted a medium-sized drone with blue and white lights. It seemed to be filming the mountains, probably someone capturing footage for a hobby. I must admit, it was a rather beautiful sight against the morning sun.",
+    "id": 247
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "Something strange happened this afternoon. I saw a large drone without any visible lights flying low over the desert. Couldn't make much of it, but it certainly wasn't a regular recreational unit. Perhaps it was some kind of government project or survey?",
+    "id": 248
+  },
+  {
+    "location": "San Francisco, California",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Flashing red lights",
+    "purpose": "Delivery",
+    "description": "Spotted a medium-sized drone with flashing red lights this morning. Given that it was carrying a small package, I figured it was making a delivery. With how tech-focused this city is, I suppose I shouldn't be surprised.",
+    "id": 249
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Steady green lights",
+    "purpose": "Recreational",
+    "description": "I was enjoying a peaceful evening when this small, noisy thing with green lights buzzed overhead. It looked like a recreational drone, probably just someone messing around. Still, I wish they'd respect the quiet of the evening.",
+    "id": 250
+  },
+  {
+    "location": "Boulder, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Bright white oscillating lights, casting eerie shadows on the snow",
+    "purpose": "Mysterious",
+    "description": "Taking my usual sunrise hike, I caught sight of this peculiar entity dancing in the sky. It moved with an almost uncanny agility, with a motion unlike any bird or plane I've seen. I'm a biologist, not an aviation expert, but I'm pretty sure birds don't have blinking lights. It left me startled and curious.",
+    "id": 251
+  },
+  {
+    "location": "Houston, Texas",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "No lights, surprisingly. Only its silhouette visible against the moon",
+    "purpose": "Delivery",
+    "description": "As a delivery guy myself, I always find it fascinating how these flying machines do a job similar to mine. Last night, I saw this massive drone soaring above while I was out for my last delivery. It moved silently, efficiently. It was like seeing my robotic counterpart working the night shift.",
+    "id": 252
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Two red lights, steady, at the back",
+    "purpose": "Recreational",
+    "description": "During my break at the office, I saw this small drone zipping around the park across the street. Some kid was controlling it, but he wasn't very good. It seemed to crash into a tree, causing the birds to scatter. Made my coffee break a bit more entertaining.",
+    "id": 253
+  },
+  {
+    "location": "Nevada Desert",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "A circle of blue lights underneath, like a UFO",
+    "purpose": "Mysterious",
+    "description": "As a long-time alien-enthusiast, I've seen plenty of things in the sky that I can't explain. This time, I'm fairly certain it was a drone, but its lights resembled a classic UFO. Hovering above the barren land, it looked otherworldly against the setting sun. Definitely one for the diary.",
+    "id": 254
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "White and blue flashing lights, with landing lights turned on",
+    "purpose": "Delivery",
+    "description": "As an aviation engineer, it's not often that I mistake a drone for an aircraft. This one had me double-checking though. Its professional flight patterns and advanced lighting system implied it's no amateur toy. Likely a delivery drone, but definitely a high-end model.",
+    "id": 255
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "No lights, just a red body that stood out against the blue sky",
+    "purpose": "Recreational",
+    "description": "While waiting for my train, a red drone caught my eye, buzzing over the New York skyline. The operator must have been nearby, but I couldn't spot them. Gave me a good distraction from my long commute.",
+    "id": 256
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Green and white lights, pulsating in a rhythmic pattern",
+    "purpose": "Mysterious",
+    "description": "Out walking the dog, just after it had rained. The drone was moving so smoothly it almost seemed to glide. Its pulsating lights reflected off the wet pavement, and made the whole scene feel like a scene from a sci-fi movie. A little eerie, but I have to admit, equally mesmerizing.",
+    "id": 257
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "A single solid white light on the front, two red lights on the back",
+    "purpose": "Delivery",
+    "description": "I was grilling in the backyard when I saw this drone passing overhead. It was clearly a delivery drone, and I recognized the model from my tech magazine. The buzzing sound was a little distracting, but seeing tech in action always gets me excited.",
+    "id": 258
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Blinking red and blue lights",
+    "purpose": "Recreational",
+    "description": "During my morning jog, I saw this drone filming a group of skateboarders. It darted around, capturing their stunts from different angles. As a filmmaker, it's fascinating to see how these drones are changing the way we capture moments.",
+    "id": 259
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Four yellow lights on each corner",
+    "purpose": "Mysterious",
+    "description": "While walking along the Charles River, I saw this drone, a large one, hovering above the water. It stayed still for a while, then moved off quickly. Couldn't tell what it was doing, but it made my ordinary afternoon a little more intriguing.",
+    "id": 260
+  },
+  {
+    "location": "Nashville, TN",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Flashing red and white lights",
+    "purpose": "Mysterious",
+    "description": "Here's the thing, I was just trying to enjoy my barbecue when this drone started hovering around my backyard. No idea who was behind the controls, but I wouldn't be surprised if it was my nosy neighbor again. Lights kept flashing in a weird pattern, like morse code or something.",
+    "id": 261
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "I was heading off to my morning yoga when I spotted this tiny drone, zipping across the sky. No lights, probably solar-powered. I'm guessing its another one of those delivery drones. Hard not to marvel at technology sometimes, isn't it?",
+    "id": 262
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Bright green lights",
+    "purpose": "Recreational",
+    "description": "I first thought it was a UFO, no kidding! Turns out, just some local kids messing around with a new toy drone. Bright green lights were pretty cool though, gave off an eerie glow in the night sky.",
+    "id": 263
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Steady white lights",
+    "purpose": "Mysterious",
+    "description": "I'm a nature photographer and was out capturing the skyline. Suddenly, this drone came outta nowhere. Steady white lights, hovering silently. I'm not one for conspiracy theories, but it was kinda spooky.",
+    "id": 264
+  },
+  {
+    "location": "New York City, NY",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Flashing blue and red lights",
+    "purpose": "Delivery",
+    "description": "I've seen drones before, but nothing like this! It was as big as a bird, with blue and red lights. I think it was carrying a package. I wonder how they navigate through this concrete jungle!",
+    "id": 265
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Flickering yellow lights",
+    "purpose": "Recreational",
+    "description": "I was hiking when I saw it. Small, almost a speck, darting through the trees. Flickering yellow lights, like a firefly. Whoever was piloting it sure knows their way around a forest.",
+    "id": 266
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Bright white lights",
+    "purpose": "Mysterious",
+    "description": "I was on my lunch break when I saw it. Big drone, hovering above the office building. Bright white lights, almost blinding. Can't help but worry about privacy these days.",
+    "id": 267
+  },
+  {
+    "location": "Los Angeles, CA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Rotating red and blue lights",
+    "purpose": "Delivery",
+    "description": "Out on my nightly run when this thing flew past me. Red and blue lights spinning around, made me feel like I was part of a sci-fi movie. Probably delivering someone's late-night snack.",
+    "id": 268
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No lights",
+    "purpose": "Recreational",
+    "description": "I was walking my dog when it flew past us. No lights, just a small buzzing noise. My dog tried to chase it, but it was way too fast. Some kid's having fun I guess.",
+    "id": 269
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Flashing green lights",
+    "purpose": "Mysterious",
+    "description": "I'm a lifeguard and was closing up for the day. Suddenly, this drone hovered in front of me, green lights flashing. It lingered for a bit before zooming off. Maybe it was lost, who knows?",
+    "id": 270
+  },
+  {
+    "location": "Reno, Nevada",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two blue LED lights at the front, blinking intermittently",
+    "purpose": "Recreational",
+    "description": "Strolling through the park with my grandkids when we spotted it, a medium-sized drone hovering above. The kids were thrilled, while I was a bit skeptical. The drone clearly recreational, with two blinking blue lights at the front. It smoothly maneuvered around the trees - remarkable control whoever was handling it.",
+    "id": 271
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Four bright white lights, one on each corner",
+    "purpose": "Delivery",
+    "description": "Coming out of a late-night shift, spotted a small drone zooming over the quiet streets. Bright white lights on each corner, visible even in the LA smog. Looked like one of those delivery drones, probably carrying someone's midnight snack.",
+    "id": 272
+  },
+  {
+    "location": "Chicago, Illinois",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Red and green lights on alternating corners",
+    "purpose": "Mysterious",
+    "description": "Out for my morning run, when this large drone appeared out of nowhere. Green and red lights blinking on alternate corners, very peculiar. Not sure what it was doing there so early. It didn't seem like a recreational drone. Made me quite curious, to be honest.",
+    "id": 273
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "White light in the center, blue lights on the side",
+    "purpose": "Mysterious",
+    "description": "Watching the sunset from my balcony, when this medium-sized drone hovered into view. An odd white light in the center, with blue lights on either side. It didn't seem like a recreational drone, nor a delivery one. Left me feeling a bit uneasy, to say the least.",
+    "id": 274
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "No visible lights",
+    "purpose": "Recreational",
+    "description": "Walking my dog when I saw this small drone, quite an amusing sight. No visible lights on it though. Seemed like a recreational drone, perhaps a kid in the neighborhood got a new toy. Ol' Tex didn't much care for it, kept barking until it disappeared.",
+    "id": 275
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Afternoon",
+    "size": "Large",
+    "lights": "Red lights on the front, green lights on the back",
+    "purpose": "Delivery",
+    "description": "Caught sight of a large drone while strolling through Central Park. Red and green lights adorning it, buzzing away towards the city's skyline. Looked like a delivery drone, probably from one of the tech giants. Quite a marvel to watch in action.",
+    "id": 276
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Blue light in the front, white lights on the side",
+    "purpose": "Mysterious",
+    "description": "Was out for a midnight stroll when this drone caught my eye. A blue light in the center with white lights on the side, seemed like it was scanning something. My inner conspiracy theorist thinks it's government surveillance, but who knows?",
+    "id": 277
+  },
+  {
+    "location": "Miami, Florida",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Green and red lights on opposite corners",
+    "purpose": "Delivery",
+    "description": "Out on the patio enjoying the balmy evening when a large drone flew by. Red and green lights on opposite corners, clearly marked as a delivery drone. It's amazing to see how far technology has come.",
+    "id": 278
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Two white lights at the front",
+    "purpose": "Recreational",
+    "description": "Spotted a small drone while hiking in the desert. Two white lights at the front, probably a recreational drone. It's an odd place for flying a drone though, not much to see out here except cacti.",
+    "id": 279
+  },
+  {
+    "location": "Washington, D.C",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Red lights in a circular pattern",
+    "purpose": "Mysterious",
+    "description": "Early morning jog along the National Mall, when a drone swooped down. Medium-sized, with red lights arranged in a circle. Definitely not a recreational or delivery drone. Left me wondering what it's doing in a no-fly zone. Quite unnerving.",
+    "id": 280
+  },
+  {
+    "location": "San Diego, CA",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Intermittent red and blue flashes",
+    "purpose": "Delivery",
+    "description": "Returning home from work, I noticed this odd object cutting across the sunset. Upon closer look, I realised it was a drone, medium-sized, with flashing red and blue lights. Definitely a delivery model, possibly from one of those new app services. Can't say I'm too thrilled about sharing the sky with merchandise.",
+    "id": 281
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "White spotlights",
+    "purpose": "Mysterious",
+    "description": "Fishing on Lake Travis, I spotted a large drone hovering over the water. Bright white lights beneath it, almost blinding. It didn't have any identifiers, so I couldn’t tell its purpose. It took off before I could get a better look. Left me wondering all day - What was it doing over the lake that early in the morning?",
+    "id": 282
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Green and white strobing lights",
+    "purpose": "Recreational",
+    "description": "Walking my dog in Central Park when this fast-moving drone buzzed past us. Small one, but bright green and white lights made it hard to miss. The dog was spooked, but I think it was just some teenager's toy. People should really be more considerate.",
+    "id": 283
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Amber navigation lights",
+    "purpose": "Delivery",
+    "description": "While hiking, I saw this drone darting between the trees. It was a medium-sized one, with amber lights, likely a delivery drone. It seemed to be navigating the forest quite effectively. Gotta admit, it's a clever use of technology, but it does somewhat break the tranquility.",
+    "id": 284
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Red and white rotating beams",
+    "purpose": "Mysterious",
+    "description": "Sitting on my balcony, I noticed a large drone flying low over the city. It had red and white lights rotating like a lighthouse. Made me quite curious - I've never seen a drone of that size or design before. One for the X-Files, perhaps?",
+    "id": 285
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Blue LED strips",
+    "purpose": "Recreational",
+    "description": "During my afternoon jog, a small drone nearly collided with me. It had bright blue lights and seemed like a recreational type. The owner was nowhere in sight. It's a cool toy, sure, but they need to keep them under control.",
+    "id": 286
+  },
+  {
+    "location": "Orlando, FL",
+    "timeOfDay": "Morning",
+    "size": "Medium",
+    "lights": "Green pulsating lights",
+    "purpose": "Delivery",
+    "description": "While doing my garden chores, I saw a medium-sized drone descending nearby. Green pulsating lights were quite conspicuous. It was a delivery drone, I reckon. That's the second one this week; these things are becoming quite common!",
+    "id": 287
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Bright white spotlights",
+    "purpose": "Mysterious",
+    "description": "Taking out the trash, I spotted a large drone silently hovering over the neighborhood. It had bright white spotlights, like a search aircraft. But there was no noise, no identifiers, nothing. Honestly, it was kind of unnerving.",
+    "id": 288
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Red and green navigation lights",
+    "purpose": "Recreational",
+    "description": "Caught sight of a small drone fiddling around the Golden Gate Bridge. It had red and green lights, looked like a recreational model. I've seen a few of these, people filming for their travel blogs or something. Still, bit of a risk flying so close to the bridge.",
+    "id": 289
+  },
+  {
+    "location": "Atlanta, GA",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Yellow flashing lights",
+    "purpose": "Delivery",
+    "description": "During a BBQ, we noticed a drone hovering over the backyards. Medium-sized with flashing yellow lights. Probably a delivery drone of some sort. Didn't stick around long, though. Good thing too, gave the kids quite a scare.",
+    "id": 290
+  },
+  {
+    "location": "Austin, Texas",
+    "timeOfDay": "Evening",
+    "size": "Medium",
+    "lights": "Four bright red blinking lights",
+    "purpose": "Mysterious",
+    "description": "Sitting on my porch, enjoying the sunset, when this drone appeared outta nowhere. Its four red lights blinkin' like a carnival ride on steroids. Was pretty large, medium I'd say. My dog, Rufus started goin' crazy, barking his head off. I was kinda stunned, couldn't make out what it was doin' here. Always been skeptical about these gizmos. Just hovered for a bit and then zipped off. Gave me quite a start, I tell ya.",
+    "id": 291
+  },
+  {
+    "location": "Boston, Massachusetts",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Single white steady light",
+    "purpose": "Delivery",
+    "description": "During a late-night study session, I saw a small drone through my apartment window. It had a steady white light, which caught my attention. As a computer science student, I was particularly intrigued. It seemed like a delivery drone, possibly from one of those new food delivery start-ups. It swiftly descended towards a neighbouring building. It's fascinating to see technology like this in action, but it does make me think about privacy issues.",
+    "id": 292
+  },
+  {
+    "location": "Anchorage, Alaska",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Two fluorescent green lights and one red light",
+    "purpose": "Recreational",
+    "description": "I'm a park ranger, and while on my usual morning patrol, I spotted a large drone gliding above the tree line. It was equipped with two bright green lights and a single red light at its rear. I believe it was a recreational drone, probably someone filming the beautiful Alaskan wilderness. Although it didn't disrupt any wildlife, I do worry about the potential risk to nesting birds.",
+    "id": 293
+  },
+  {
+    "location": "Los Angeles, California",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "No visible lights",
+    "purpose": "Mysterious",
+    "description": "As a helicopter pilot, I've seen a lot, but this was new. We were flying over downtown LA, when I noticed a medium-sized drone, no lights on it. Couldn't identify the model or purpose. It was a bit unsettling, considering the air traffic in the area. Gonna report it to the FAA, we don't need any risk in the airways.",
+    "id": 294
+  },
+  {
+    "location": "Orlando, Florida",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Blue and red flashing lights",
+    "purpose": "Recreational",
+    "description": "Being an avid bird-watcher, I was out with my binoculars at dusk. I noticed a peculiar object in the sky with flashing blue and red lights. On closer inspection, it turned out to be a small drone, probably used for recreational purposes. It certainly threw me off for a bit, not the usual sight you expect while bird-watching!",
+    "id": 295
+  },
+  {
+    "location": "New York, New York",
+    "timeOfDay": "Night",
+    "size": "Large",
+    "lights": "Multiple white and blue blinking lights",
+    "purpose": "Delivery",
+    "description": "As a night-shift delivery driver, I'm no stranger to the hustle and bustle of the city. But last night was something else. I noticed a large drone with multiple blinking white and blue lights, darting across rooftops. Pretty sure it was a delivery drone, probably outperforming us actual delivery drivers. It's an odd feeling, being in competition with a machine.",
+    "id": 296
+  },
+  {
+    "location": "Seattle, Washington",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two yellow steady lights",
+    "purpose": "Mysterious",
+    "description": "I was on the ferry, heading back home when I saw this medium-sized drone, sporting a pair of yellow lights. It hovered at a safe distance but was clearly tracking the ferry's movement. The purpose was unclear, and its silent presence was kind of unnerving. I just hope it's not some new government surveillance thing.",
+    "id": 297
+  },
+  {
+    "location": "Denver, Colorado",
+    "timeOfDay": "Morning",
+    "size": "Small",
+    "lights": "Four green blinking lights",
+    "purpose": "Recreational",
+    "description": "During my morning jog in the park, I noticed a small drone swooping around, probably filming the sunrise. It had four green blinking lights, and the drone controller was nowhere to be seen. It seemed harmless, but it's a bit disconcerting to have your morning peace interrupted by buzzing tech.",
+    "id": 298
+  },
+  {
+    "location": "Charleston, South Carolina",
+    "timeOfDay": "Evening",
+    "size": "Large",
+    "lights": "Single red blinking light",
+    "purpose": "Mysterious",
+    "description": "I'm a cop, and last evening, during my routine patrol, I spotted a large drone with a single blinking red light. Couldn't figure out its purpose, but it was flying unusually low, which was concerning. I've reported it to the station, and we're looking into it.",
+    "id": 299
+  },
+  {
+    "location": "Phoenix, Arizona",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Multiple white steady lights",
+    "purpose": "Delivery",
+    "description": "While having a late-night barbecue in my backyard, a drone with multiple steady white lights flew overhead. It made a humming sound and maintained a quick pace. I'm speculating it might have been a delivery drone, given its determined direction. My kids were excited to see it, but it did break our peaceful night a bit.",
+    "id": 300
+  },
+  {
+    "location": "Austin, TX",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "Four blinking red lights",
+    "purpose": "Mysterious",
+    "description": "Laid back and enjoying my usual evening run at Zilker Park, I saw this small contraption in the sky. It had four blinking red lights. If I hadn't known better, I would've thought it was Venus playing tricks. The thing moved too intelligently, though. It wasn't just hovering but systematically scanning the area. Creepy, but kinda cool as well.",
+    "id": 301
+  },
+  {
+    "location": "Chicago, IL",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "No visible lights",
+    "purpose": "Delivery",
+    "description": "Walking towards my office building on a crisp Monday morning, I saw this large, ominous object in the sky. No lights, just the hum of rotor blades. On closer look, I noticed the Amazon logo. I reckon it's their new delivery thing. Guess our skies won't be the same anymore.",
+    "id": 302
+  },
+  {
+    "location": "Salem, OR",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Two steady blue lights",
+    "purpose": "Recreational",
+    "description": "Had a picnic at Bush's Pasture Park when this drone flew overhead. Medium in size, two blue lights. Clearly someone's toy. They sure have a way of ruining a peaceful afternoon.",
+    "id": 303
+  },
+  {
+    "location": "New York, NY",
+    "timeOfDay": "Night",
+    "size": "Small",
+    "lights": "Bright white light in front",
+    "purpose": "Mysterious",
+    "description": "Stargazing on my apartment's rooftop, I noticed a peculiar small object buzzing around. It had a bright white light, like an eye, scanning the dark alleys. Is the city watching us now? Can't even look at the stars in peace.",
+    "id": 304
+  },
+  {
+    "location": "Miami, FL",
+    "timeOfDay": "Afternoon",
+    "size": "Medium",
+    "lights": "Green and red navigation lights",
+    "purpose": "Delivery",
+    "description": "Beaming sun, perfect weather for a beach day. Out of nowhere, this medium-sized drone swoops overhead. The thing had green and red lights on it, just like an aircraft. Almost dropped my cocktail. It was carrying a package- seemed like one of those delivery drones. Guess someone's lunch was flying over.",
+    "id": 305
+  },
+  {
+    "location": "Denver, CO",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "A series of white strobe lights",
+    "purpose": "Mysterious",
+    "description": "Early morning hike at the Rockies. The tranquility was shattered by this large drone, all lit up with strobe lights. It was doing a pattern, like a grid search or something. Could be government, could be private. Felt a bit like an invasion of privacy, though.",
+    "id": 306
+  },
+  {
+    "location": "Los Angeles, CA",
+    "timeOfDay": "Evening",
+    "size": "Small",
+    "lights": "No lights, just a small green glow",
+    "purpose": "Recreational",
+    "description": "Enjoying the evening breeze at Venice Beach when this pesky little drone zipped past. No lights, just a faint green glow. Some tech bro's toy, I think. Ruined my Instagram story.",
+    "id": 307
+  },
+  {
+    "location": "Seattle, WA",
+    "timeOfDay": "Night",
+    "size": "Medium",
+    "lights": "Flashing yellow lights",
+    "purpose": "Mysterious",
+    "description": "Late-night stroll in the neighborhood and spotted a medium-sized drone with flashing yellow lights. Creepy or cool, depends on how you look at it. I guess it's just another night in tech city.",
+    "id": 308
+  },
+  {
+    "location": "Phoenix, AZ",
+    "timeOfDay": "Morning",
+    "size": "Large",
+    "lights": "Bright white spotlight",
+    "purpose": "Delivery",
+    "description": "Intense morning jog in the desert heat. Suddenly, a large drone with a white spotlight was hovering above. It was carrying a box marked with the FedEx logo. The future of delivery, I guess. It added a bit of intrigue to my otherwise mundane run.",
+    "id": 309
+  },
+  {
+    "location": "San Francisco, CA",
+    "timeOfDay": "Afternoon",
+    "size": "Small",
+    "lights": "Red and white blinking lights",
+    "purpose": "Recreational",
+    "description": "Chilling at Golden Gate Park when this small drone, all lit up with red and white lights, started buzzing around. Some kid was controlling it. Made me feel like I was in a sci-fi movie. Weird, yet fascinating.",
+    "id": 310
+  }
+]
