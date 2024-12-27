@@ -1,15 +1,11 @@
-import { OpenAI } from "openai";
+import { HuggingFaceTransformersEmbeddings } from '@langchain/community/embeddings/hf_transformers';
 import Redis from "ioredis";
-import dotenv from "dotenv";
 import { readFileSync } from "fs";
 const dataset = JSON.parse(readFileSync(new URL("../data/dataset.json", import.meta.url)));
 
-dotenv.config();
-
 const redis = new Redis();
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+
+const embeddingsModel = new HuggingFaceTransformersEmbeddings();
 
 const generateEmbeddings = async () => {
   for (const sighting of dataset) {
@@ -18,12 +14,9 @@ const generateEmbeddings = async () => {
     try {
       console.log(`Generating embedding for sighting ID: ${id}`);
       
-      const response = await openai.embeddings.create({
-        model: "text-embedding-ada-002",
-        input: description,
-      });
-
-      const embedding = response.data[0]?.embedding;
+      const embedding = await embeddingsModel.embedQuery(
+        JSON.stringify(sighting)
+      );
 
       if (!embedding) {
         console.error(`Failed to generate embedding for sighting ID: ${id}`);
